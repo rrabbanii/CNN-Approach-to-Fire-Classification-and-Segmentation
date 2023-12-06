@@ -1,0 +1,1 @@
+# CNN-Approach-to-Fire-Classification-and-Segmentation-Project
